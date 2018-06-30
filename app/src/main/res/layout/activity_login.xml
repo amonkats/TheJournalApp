@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context="example.androidgrid.journalapp.user_account.LoginActivity">
+    tools:context="com.example.theprogrammer.thejournalapp.user_account.LoginActivity">
 
     <ImageView
         android:layout_width="150dp"

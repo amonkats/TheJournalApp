@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/common_google_signin_btn_text_light_default"
     android:orientation="vertical"
-    tools:context="example.androidgrid.journalapp.StartActivity">
+    tools:context="com.example.theprogrammer.thejournalapp.StartActivity">
 
 
     <LinearLayout
