@@ -15,6 +15,10 @@ public class NoteModel {
         this.noteTime = noteTime;
     }
 
+    public NoteModel(){
+
+    }
+
     public String getNoteTitle() {
         return noteTitle;
     }
