@@ -2,4 +2,4 @@
 
 My Udacity Final Project as an Android Developer Intermediate
 
-https://amonkats.github.io/TheJournalApp/.
+https://github.com/amonkats/TheJournalApp
